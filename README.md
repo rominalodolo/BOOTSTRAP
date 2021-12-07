@@ -1,8 +1,8 @@
 # Redux Cart ProjectBootstrap CSS Framework - 
 
 Full Course for Beginners by Dawid Adach via Free Code Camp. 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-qfEOE4vtxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[Create React App](https://github.com/facebook/create-react-app).
+
+[Watch the course here:](https://www.youtube.com/embed/-qfEOE4vtxE).
 
 ## Chapter 11 
 
