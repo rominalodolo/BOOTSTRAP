@@ -1,19 +1,24 @@
-# Redux Cart ProjectBootstrap CSS Framework - 
+# Bootstrap CSS Framework Project
 
 Full Course for Beginners by Dawid Adach via Free Code Camp. 
 
-[Watch the course here:](https://www.youtube.com/embed/-qfEOE4vtxE).
+[Watch the course here](https://www.youtube.com/embed/-qfEOE4vtxE).
 
-## Chapter 11 
+## MDB React
 
-From the Beginning React Book by Greg Lim, 2017. 
+Getting started:
 
-#### REACT WITH REDUX
-` npm install redux `
-` npm install react-redux `
+`npm i mdb-ui-kit`
 
-## Screen Shot of Cart Application
+[React Installation guide](https://mdbootstrap.com/docs/b5/react/getting-started/installation/)
 
-![reduxCart](https://user-images.githubusercontent.com/83961643/144836601-a927e72c-a142-4a57-8d6d-90a3ed09113c.jpeg)
+
+#### Js Popper Tool
+` npm i @popperjs/core `
+[More info here](https://popper.js.org)
+
+
+## Screen Shot of Bootstrap Website
+
 
 Last edit December 2021
